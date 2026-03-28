@@ -19,7 +19,6 @@ Para alcançar este resultado, utilizei:
 - [x] **Animações de entrada:** Elementos que surgem de forma coordenada.
 - [x] **Efeito de Scroll:** Interatividade baseada no movimento do usuário.
 - [x] **Assets Otimizados:** Uso de fontes personalizadas e imagens de alta qualidade.
-- [x] **Responsividade:** Interface adaptada para diferentes resoluções.
 
 ---
 
