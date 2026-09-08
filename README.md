@@ -29,4 +29,14 @@ Para alcançar este resultado, utilizei:
 **Treinamento:** Rei do Código 👑
 
 ---
+
+---
+
+## 🌐 Demonstração Online
+Acesse a página publicada: [Fanta Landing Page](https://dev-naldo.github.io/fanta-landing-page/)
+
+## 🚀 Como Executar Localmente
+1. Clone este repositório:
+   ```bash
+   git clone [https://github.com/Dev-Naldo/fanta-landing-page.git](https://github.com/Dev-Naldo/fanta-landing-page.git)
 *“O código é a minha ferramenta, a criatividade é o meu limite.”*
